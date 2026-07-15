@@ -16,10 +16,12 @@ A fullstack developer from Spain. I speak English and Spanish
   <img src="./assets/fastapi.svg" width="40">
   <img src="./assets/android-original-wordmark.svg" width="40"/>
   <img src="./assets/mongodb-original-wordmark.svg" width="40"/>
+  <img src="./assets/mariadb-vertical.svg" width="40"/>
   <img src="./assets/mysql-original-wordmark.svg" width="40"/>
   <img src="./assets/oracle-original.svg" width="40"/>
   <img src="./assets/docker-original-wordmark.svg" width="40"/>
   <img src="./assets/css3-original-wordmark.svg" width="40"/>
   <img src="./assets/html5-original-wordmark.svg" width="40"/>
+  <img src="./assets/laravel-original.svg" width="40"/>
 </p>
 
